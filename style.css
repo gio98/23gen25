@@ -1,0 +1,73 @@
+body {
+    background: url(sfondo1.jpg) fixed center;
+    background-size: 77pc 48pc;
+    background-repeat: no-repeat;
+    background-position-x: -347px;
+    background-position-y: -28px;
+}
+
+.cuore {
+    position: relative;
+    left: -5pc;
+    top: 9pc;
+    height: 275px;
+}
+
+h1 {
+    font-family: 'Vinertic';
+}
+
+.feliz {
+    position: absolute;
+    left: 0pc;
+    font-size: 2pc;
+    width: 38pc;
+    top: 1pc;
+}
+
+.meses {
+    position: absolute;
+    top: 5pc;
+    left: 0.5pc;
+    width: 37pc;
+    font-size: 1.7pc;
+}
+
+.tiamo {
+    position: absolute;
+    top: 23pc;
+    left: 5pc;
+    font-size: 2pc;
+}
+.immens {
+    position: absolute;
+    top: 27pc;
+    left: 1pc;
+    font-size: 1.5pc;
+}
+
+.comp {
+    position: absolute;
+    top: 30pc;
+    left: 1pc;
+    font-size: 1.5pc;
+    width: 22pc;
+}
+.vida {
+    position: absolute;
+    top: 33pc;
+    left: 4.5pc;
+    font-size: 1.6pc;
+}
+
+.gen {
+    position: absolute;
+    top: 38pc;
+    left: 1pc;
+    font-size: 1.4pc;
+    width: 22pc;
+}
+@font-face {
+    font-family: Vinertic;
+    src: url(VINERITC.TTF);
+  }
